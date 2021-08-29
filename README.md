@@ -1,4 +1,4 @@
-# BCIFAR10 Image Classification
+# CIFAR-10 Image Classification
 Image Classification using Convolutional Neural Networks in Python with PyTorch
 
 ## CIFAR-10 dataset:
@@ -142,7 +142,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 </tbody></table>
 
 
-## Code Requirements
+## Libraries
 python 3.x with following modules installed
 
 1. PyTorch 
@@ -152,7 +152,7 @@ python 3.x with following modules installed
 
 ## Description
 
-Convolutional Neural Network that implements the CIFAR10 database to classify the image class.
+Convolutional Neural Network that implements the CIFAR-10 database to classify the image class.
 
 ## Authors and acknowledgment
 
