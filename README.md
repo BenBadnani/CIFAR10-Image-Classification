@@ -1,7 +1,7 @@
-# Handwritten-digit-recognition-MNIST
-Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras
+# BCIFAR10 Image Classification
+Image Classification using Convolutional Neural Networks in Python with PyTorch
 
-## MNIST dataset:
+## CIFAR-10 dataset:
 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
